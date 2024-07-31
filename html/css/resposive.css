@@ -1,0 +1,731 @@
+/* css only for hover effect all hover effect must write in this Media query */
+@media only screen and (max-width: 1920px) {
+
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+}
+
+
+
+@media only screen and (max-width: 1660px) {
+
+}
+
+
+@media only screen and (min-width: 768px) {
+
+}
+
+
+@media only screen and (max-width: 1599px) {
+
+}
+
+
+
+
+
+@media only screen and (max-width: 1366px) {
+
+
+}
+
+@media only screen and (max-width: 1280px) {
+
+}
+
+ 
+
+/* common css for below screen 1199 */
+
+@media only screen and (max-width: 1199px) {
+	
+
+
+
+/*---bannersec---*/
+
+/*.bannerSec {min-height: 70vh;}*/
+
+
+
+
+/*---bannersec---*/
+
+/*---aboutus----*/
+
+
+
+/*---aboutus----*/
+
+/*---product-listing---*/
+
+.custom_checkbox label span:before{width: 1.7rem;height: 1.7rem;}
+.custom_checkbox label span{font-size: 1.6rem;}
+
+/*---product-listing---*/
+
+/*---product-detail---*/
+
+.quantityBox #quantityField{margin-left: 0;}
+.productImg img{max-height: 90%;}
+.prodetainfoSec .cmsCon .aligncenter{max-width: 40%;}
+
+/*---product-detail---*/
+
+/*---cmsCon---*/
+.productNav .nav-link{font-size: 2.2rem;}
+.cmsCon p{font-size: 2rem;}
+.cmsCon ul li{font-size: 2rem;padding-left: 2.5rem;}
+.cmsCon ul li:before{top: 1.2rem;}
+.cmsCon ol li{font-size: 2rem;}
+
+/*---cmsCon---*/
+
+
+}
+
+
+/* common css for below screen 991 */
+
+@media only screen and (max-width: 991px) {
+html{font-size: 0.677vw}
+p{font-size: 1.8rem;}	
+
+/*.menuIcon { display: inline-block; vertical-align: middle;}
+.m_menuLogo{display: block;width: 100%;padding: 15px 15px 15px;border-bottom: 1px solid #edecec;
+background: #f2f2f2;display: block;width: 100%;}
+.headerMain .m_menuLogo .menuLogo{max-width: 220px; display: block;}
+.headerMain .m_menuLogo .menuLogo img{filter:none;}
+.m_menuLogo .closeMenu { position: absolute; right: 0; top: 0; width: 30px; height: 30px; padding: 6px;}
+.m_menuLogo .closeMenu:before { content: ''; width: 22px; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: #000; -webkit-transform: rotate(45deg); transform: rotate(45deg); margin: auto; bottom: 0;}
+.m_menuLogo .closeMenu:after { content: ''; width: 22px; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: #000; -webkit-transform: rotate(-45deg); transform: rotate(-45deg); margin: auto; bottom: 0;}
+.navigationBar { position: fixed; width: 300px; top: 0; bottom: 0; left: -320px; background: #fff; transition: all .6s ease-in-out; margin: 0; z-index: 9999; overflow-y: auto;}
+.navigationBar.slideMenu{left: 0;}
+.menuMain{width: 100%;margin-bottom: 2rem;}
+.menuMain li{width: 100%; display: block; border-bottom: 1px solid #e2e2e2; padding:0; margin:0; position: relative;}
+.menuMain li a{display: block; width: 100%; padding: 10px 15px; text-align: left;}
+.menuMain > ul > li > a{ font-size: 14px; font-weight: 500;color: #000;}*/
+
+
+
+
+
+/*---bannersec---*/
+
+.bannerLeftbox{padding: 18rem 9rem;padding-left: 15rem;}
+/*.bannerboxmain:before{width: 18rem;height: 48rem;}*/
+.bannerboxmain .bottleimg{width: 18rem;height: 48rem;bottom: -4rem;}
+/*---bannersec---*/
+
+/*---CBD Product---*/
+.cbdproductSec{padding-top: 20rem;}
+.cbdprocon p{font-size: 1.8rem;}
+.cbdprocon .discmore{font-size: 1.4rem;}
+.secHead .secSubTitle{font-size: 2rem;}
+
+
+/*---CBD Product---*/
+
+/*---shop products---*/
+.shoprodcon .shoprodtitle{font-size: 2.2rem;}
+.shoprodcon .shoprodpris{font-size: 2.6rem;}
+.btn{font-size: 1.6rem;min-width: 20rem;}
+
+/*---shop products---*/
+
+/*---Which CBD Best---*/
+
+.cbdoilRightbox{margin-top: 9rem;padding: 5rem 15rem 7rem 10rem}
+.cbdoilstepbox li .steptitle{font-size: 2.5rem;top: 5.5rem;}
+.cbdoilstepbox li p{font-size: 1.8rem;}
+.cbdoilstepbox li{margin-bottom: 2rem;}
+
+/*---Which CBD Best---*/
+
+/*---The Best Products---*/
+.bestprocon p{font-size: 1.8rem;}
+.bestprocon{padding-left: 4rem;}
+.bestproforimg img{width: 100%;max-width: 80%;}
+
+
+/*---The Best Products---*/
+
+/*---Testimonials---*/
+
+.testimonboxcon{padding: 7rem 8rem;padding-bottom: 8rem;}
+.testimonboxcon p{font-size: 2rem;}
+.slickarrdotmain{margin-left: 8rem;}
+.slickarrdotmain .tesslideArrows{bottom: 7rem;}
+
+/*---Testimonials---*/
+
+/*---blog---*/
+.viewmain .viewMore{font-size: 1.6rem;}
+.metasl{font-size: 1.7rem;}
+.metasl .icon{font-size: 2.2rem;}
+
+/*---blog---*/
+
+/*---footer sec---*/
+
+.footerMain .footBox .footCon ul li a{font-size: 1.8rem;}
+.footerMain .footBox .footCon .footContact{font-size: 1.8rem;}
+.footerMain .footBox .footCon .footContact .icon{font-size: 2.1rem;}
+.socialMeadia a .icon{line-height: 1.8;}
+
+/*---footer sec---*/
+
+
+/*---aboutus----*/
+
+.counterbox p{font-size: 1.8rem;}
+.whychobox p{font-size: 1.8rem;max-width: 85%;}
+
+/*---aboutus----*/
+
+/*---contactus---*/
+
+.contactdetailbox .secHead p{font-size: 1.8rem;}
+.fieldbox .inputField{font-size: 1.8rem;}
+.condetinfocon .coninfodet{font-size: 2rem;}
+
+/*---contactus---*/
+
+/*---FAQ---*/
+.faqsmain{max-width: 115rem;}
+.faqsmain .accordion-item .accordion-header .accordion-button{font-size: 2rem;}
+.faqsmain .accordion-item .cmsCon p{font-size: 1.8rem;}
+
+/*---FAQ---*/
+
+/*---blog-listing---*/
+.commonSec{padding: 5rem 0;}
+.bloglistbox .blogcon .blogtitle{font-size: 2.6rem;}
+.sideBar .widget-title{font-size: 2.4rem;}
+.sideBar ul li a{font-size: 2.2rem;}
+.sideBar ul li .postdate{font-size: 2rem;}
+
+/*---blog-listing---*/
+
+
+
+/*---error---*/
+
+.commonboxcon .commontitle{font-size: 3rem;}
+.commonboxcon p{font-size: 2rem;}
+
+/*---error---*/
+
+/*---product-listing---*/
+
+
+
+/*---product-listing---*/
+
+/*---product-detail---*/
+
+
+
+/*---product-detail---*/
+
+}
+
+
+
+/* common css for below screen 767 */
+
+@media only screen and (max-width: 767px) {
+	
+html{font-size: 5px;}	
+p{font-size: 3rem;}
+.btn{font-size: 2rem;}
+.container{padding: 0 14px;}
+
+
+.slick-dots li button{width: 10px;height: 10px;}
+.slick-dots li.slick-active button:before{width: 6px;height: 6px;}
+.headerMain.has_sticky .siteLogo img{width: 12rem;}
+
+/*---Header---*/
+
+.menuIcon { display: inline-block; vertical-align: middle;}
+.m_menuLogo{display: block;width: 100%;padding: 15px 15px 15px;border-bottom: 1px solid #c3dcc6;
+background: #dbf4de;display: block;width: 100%;}
+.headerMain .m_menuLogo .menuLogo{max-width: 110px; display: block;margin: auto;}
+.headerMain .m_menuLogo .menuLogo img{margin: auto;}
+.m_menuLogo .closeMenu { position: absolute; right: 0; top: 0; width: 30px; height: 30px; padding: 6px;}
+.m_menuLogo .closeMenu:before { content: ''; width: 22px; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: #1b2f22; -webkit-transform: rotate(45deg); transform: rotate(45deg); margin: auto; bottom: 0;}
+.m_menuLogo .closeMenu:after { content: ''; width: 22px; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: #1b2f22; -webkit-transform: rotate(-45deg); transform: rotate(-45deg); margin: auto; bottom: 0;}
+.navigationBar { position: fixed; width: 300px; top: 0; bottom: 0; left: -320px; background: #fff; transition: all .6s ease-in-out; margin: 0; z-index: 9999; overflow-y: auto;}
+.navigationBar.slideMenu{left: 0;}
+
+/*.navigationBarone { position: fixed; width: 300px; top: 0; bottom: 0; left: -320px; background: #fff; transition: all .6s ease-in-out; margin: 0; z-index: 9999; overflow-y: auto;}
+.navigationBarone.slideMenu{left: 0;}*/
+.menuMain{width: 100%;margin-bottom: 2rem;}
+.menuMain li{width: 100%; display: block; border-bottom: 1px solid #e2e2e2; padding:0; margin:0; position: relative;}
+.menuMain li a{display: block; width: 100%; padding: 10px 15px; text-align: left;}
+.menuMain > ul > li > a{ font-size: 14px; font-weight: 500;color: #000;}
+
+
+.navigationBar .menuMain > ul li{position: relative;}
+
+.navigationBar .menuMain>ul>li>a {font-size: 16px; border: none; padding: 10px 15px; text-align: left;}
+.navigationBar .menuMain>ul>li>a.active {color: #0a71b8;}
+.navigationBar .menuMain>ul li {position: relative;}
+.navigationBar .menuMain>ul li .arrow {position: absolute; right: 0; top: 0; width: 32px; height: 42px; z-index: 999; transform: none; bottom: inherit;
+border:none;}
+.menuMain > ul > li:not(.megaMenu) .sub-menu li a{border: none;padding: 10px 15px;font-size: 14px;}
+
+.navigationBar .menuMain>ul li .arrow:before {content: ""; position: absolute; left: 0; right: 10px; top: -2px; bottom: 0; width: 10px;
+height: 10px; border-bottom: 1px solid #000; border-right: 1px solid #000; transform: rotate(-45deg); margin: auto; transition: all .4s ease-in-out;}
+.navigationBar .menuMain>ul li .arrow.minus:before {transform: rotate(45deg);}
+.navigationBar .menuMain>ul>li ul {display: none; padding: 0!important; position: static!important;
+transform: none!important; left: inherit!important; top: inherit!important; width: auto!important; box-shadow: none!important; opacity: 1!important;
+visibility: visible!important; transition: none!important;}
+
+.navigationBar .menuMain>ul>li ul li:last-child {border-bottom:0;}
+.navigationBar .menuMain>ul>li>ul>li>a {font-weight: 500; font-size: 14px; text-align: left;}
+.navigationBar .menuMain>ul>li>ul>li>ul {padding-left:15px;}
+.navigationBar .menuMain>ul>li>ul>li>ul>li>a {padding-left: 0;}
+
+
+
+.menu-border{border-bottom: none;padding-bottom: 0;display: inline-block;}
+.headercolthree{align-self: center!important;}
+
+
+.headtopSec{padding-top: 38px;}
+.headtopSec p{font-size: 14px;}
+.userBtn .icon{font-size: 20px;}
+.myAccount{padding: 0 1rem;}
+.cart .icon{font-size: 24px;}
+.cart .cart_value_num{width: 18px;height: 18px;font-size: 12px;line-height: 1.5;top: -1.5rem;right: -1.3rem;}
+/*---Header---*/
+
+
+/*---bannersec---*/
+
+.banneRightbox{display: none;}
+/*.bannerboxmain:before{display: none;}*/
+.bannerboxmain .bottleimg{display: none;}
+.bannercon .bannertitle{font-size: 9rem;margin-bottom: 0.5rem;}
+.bannercon .bannersmalltitle{font-size: 3.3rem;}
+.bannercon p{font-size: 2rem;}
+.bannercon{text-align: center;}
+.bannerLeftbox{padding: 17rem 8rem;}
+.homeSlider:before{max-width: 100%;}
+/*---bannersec---*/
+
+/*---CBD Product---*/
+.cbdproductSec{padding: 11rem 0;}
+.cbdprorow{display: block;white-space: nowrap;overflow: auto;margin: 0 -15px;}
+.cbdproductSec .cbdprocol{white-space: normal;width: 45%;padding: 0 5px;display: inline-block;vertical-align: top;}
+.cbdprobox{max-width: 95%;padding: 22px 13px;padding-bottom: 0;}
+.cbdprobox:hover{padding-top: 10px;}
+.cbdprocon p{max-width: 100%;font-size: 14px;}
+.cbdprocon .discmore{font-size: 11px;margin-bottom: 14px;}
+
+/*---CBD Product---*/
+
+/*---shop products---*/
+
+.secHead .secSubTitle{font-size: 14px;}
+.secHead .secTitle{font-size: 20px;}
+.shoprodcon .shoprodtitle{font-size: 12px;}
+.shoprodcon .shoprodpris{font-size: 14px;}
+
+/*---shop products---*/
+
+/*---Which CBD Best---*/
+.cbdoilVideo{padding-bottom: 84%;}
+.cbdoilRightbox{margin-top: 0;padding: 6rem 10px;}
+.cbdoilstepbox li p{font-size: 2.6rem;}
+.cbdoilstepbox li .steptitle{font-size: 2.8rem;}
+
+/*---Which CBD Best---*/
+
+/*---The Best Products---*/
+
+.bestproimgfull{max-width: 45rem;}
+.bestproimgsmall{max-width: 33rem;margin-top: -35.5rem}
+.bestproimgmain{max-width: 84%;margin: auto;}
+.bestprocon{padding: 45px 0px;padding-bottom: 0;text-align: center;}
+.bestprocon .bestprotitle{font-size: 24px;}
+.bestprocon p{font-size: 16px;}
+.bestproforimg img{margin: auto;max-width: 90%;}
+
+/*---The Best Products---*/
+
+/*---Testimonials---*/
+
+
+.testimonboxcon{padding: 30px 30px;padding-bottom: 50px;}
+.quoteicon .icon{font-size: 40px;}
+.testimonboxcon p{font-size: 17px;}
+.custoimg{width: 64px;height: 64px;}
+.customcon .customtitle{font-size: 20px;}
+.customcon{width: calc(100% - 14.6rem);padding: 4rem 0;}
+.slickarrdotmain .tesslideArrows .slick-prev:before{font-size: 12px;width: 6rem;height: 3.5rem;}
+.slickarrdotmain .tesslideArrows .slick-next:before{font-size: 12px;width: 6rem;height: 3.5rem;}
+.slickarrdotmain .tesslideArrows{width: 14rem;bottom: 8rem;}
+.slickarrdotmain{margin-left: 30px;}
+
+/*---Testimonials---*/
+
+/*---blog---*/
+.blogSec .secHead .secSubTitle{text-align: left;}
+.blogSec .secHead .secTitle{text-align: left;}
+.viewmain .viewMore{font-size: 14px;}
+.blogcon .blogtitle{font-size: 18px;}
+.metasl{font-size: 14px;padding-left: 25px;}
+.metasl .icon{font-size: 17px;}
+
+/*---blog---*/
+
+/*---Instagram---*/
+.instagramSec .secHead{padding: 0 14px;}
+
+
+/*---Instagram---*/
+
+/*---footer sec---*/
+.siteinfocol{display: none;}
+.footerMain .footBox .footLogo{display: none;}
+.contact_col{padding-left: 0;}
+.copyrightsec .copyright{font-size: 14px;font-weight: 400;line-height: 1.4;margin-bottom: 2px;}
+.copyrightsec .powerdBy{font-size: 14px;line-height: 1.4;font-weight: 400;float: none;}
+.copyrightsec .powerdBy a{width: 27px;}
+
+/*.footerMain .footersec{padding: 15px 0;padding-bottom: 10px;}
+.footerMain .footborcol{border-bottom: 1px solid #c5dbc7;}
+.footerMain .footborcol:last-child{border-bottom: none;}*/
+
+/*.footerMain .footBox .footTitle {position: relative;margin: 13px 0;font-size: 15px;}
+.footerMain .footBox .footTitle:before {content: ""; position: absolute; right:5px; top: -2px; bottom: 0; width: 10px;
+ height: 10px; border-bottom: 1px solid #000; border-right: 1px solid #000; transform: rotate(45deg); margin: auto;
+ transition: all .4s ease-in-out;}
+.footerMain .footBox .footTitle.open:before {transform: rotate(-135deg);}*/
+/*.footCon {display: none;}*/
+.footerMain .footBox .footTitle {font-size: 15px;}
+.footerMain .footBox .footCon ul li a{font-size: 14px;font-weight: 400;}
+.footCon{margin-bottom: 5px;}
+.footerMain .footBox .footCon ul li{margin-bottom: 12px;}
+.footerMain .footBox .footCon .footContact{font-size: 14px;font-weight: 400;padding-left: 22px;margin-bottom: 12px;}
+.footerMain .footBox .footCon .footContact .icon{font-size: 16px;}
+
+.socialMeadia a{width: 30px;height: 30px;font-size: 14px;}
+.socialMeadia a .icon{line-height: 2;}
+.FooterSocial{margin-top: 1.5rem;}
+.footerMain .footBox .footLogo{max-width: 100%;margin: inherit;}
+.socialMeadia{display: block;text-align: left;}
+
+/*---footer sec---*/
+
+/*---aboutus----*/
+.breadcrumbmain{display: none;}
+.breadcrumbList li{font-size: 12px;}
+.breadcrumbList li~li::before{font-size: 12px;}
+.breadcrumbList li{padding: 0 0.5rem;}
+.aboutcbdconmain{padding-top: 6rem;}
+.aboucbdcon{max-width: 100%;}
+.bestproSec{padding: 8rem 0;}
+.aboutbestproSec .bestprocon p{margin-bottom: 0;}
+.counterboxmain{max-width: 100%;}
+.whychocolRight{width: 100%;max-width: 100%;}
+.whychoimg{margin-bottom: 4rem;}
+.whychooseSec .secHead{margin-bottom: 4rem;}
+.whychobox .whychoboxtitle{font-size: 2.6rem;}
+.whychobox p{font-size: 2.2rem;max-width: 100%;}
+.whychoboxconmain{padding: 0;}
+.whychoboxlist li{margin-bottom: 4rem;}
+.whychooseSec{padding: 8rem 0;padding-bottom: 5rem;}
+
+/*---aboutus----*/
+
+/*---contactus---*/
+.contactdetailSec{padding: 40px 0;}
+.contactdetailbox{padding-left: 0;padding-bottom: 30px;}
+.contactformain{padding: 0;}
+.contactdetailbox .secHead p{max-width: 100%;}
+.contactdetailbox .secHead p{font-size: 2.5rem;}
+.fieldbox .inputField{font-size: 2.5rem;}
+.condetinfocon .coninfotitle{font-size: 2.5rem;}
+.condetinfocon .coninfodet{font-size: 2.8rem;}
+.condeticonbox{width: 7rem;height: 7rem;}
+.condeticonbox .icon{font-size: 3rem;line-height: 2.3;}
+.condetinfocon{padding-top: 0;}
+.condetainfomain ul li{padding-left: 8.5rem;margin-bottom: 5rem;}
+.sendbtn .btn{font-size: 14px;}
+.contactdetailSec:before{display: none;}
+.contactforbox{padding: 0;box-shadow: none;}
+
+/*---contactus---*/
+
+/*---FAQ---*/
+.faqSec{padding: 40px 0;}
+.faqsmain{max-width: 100%;}
+.faqsmain .accordion-header span{width: 4.2rem;height: 4.2rem;left: 1rem;}
+.faqsmain .accordion-button::before{left: 2.2rem;top: 3.2rem; width: 1.6rem;}
+.faqsmain .accordion-button::after{left: 2.9rem;top: 2.6rem;height: 1.6rem;}
+.faqsmain .accordion-button:not(.collapsed)::after{top: 3.2rem;left: 2.2rem;width: 1.6rem;}
+.faqsmain .accordion-item .accordion-header .accordion-button{padding-left: 7rem;}
+.faqsmain .accordion-item .cmsCon{padding-left: 7rem;}
+.faqsmain .accordion-item .accordion-header .accordion-button{font-size: 3rem;}
+.faqsmain .accordion-item .cmsCon p{font-size: 2.8rem;}
+
+/*---FAQ---*/
+
+/*---blog-listing---*/
+
+.commonSec{padding: 40px 0;}
+.bloglistboxmain{margin-right: 0;}
+.bloglistbox .blogcon .blogtitle{font-size: 16px;}
+.blogcon p{font-size: 14px;}
+.sideBar .widget{padding: 15px 15px;padding-bottom: 20px;}
+.sideBar .widget-title{font-size: 16px;}
+.sideBar ul li a{font-size: 14px;}
+.sideBar ul li .postdate{font-size: 12px;}
+.bloglistbox:last-child{margin-bottom: 4rem;}
+
+/*---blog-listing---*/
+
+/*---cmsCon---*/
+
+.cmsCon p{font-size: 14px;}
+.cmsCon ul li{font-size: 14px;}
+.cmsCon ol li{font-size: 14px;}
+.cmsCon ul li:before{top: 1.5rem;width: 1rem;height: 1rem;}
+.cmsCon .alignleft{max-width: 100%;float: none;margin: auto;margin-bottom: 2rem;}
+.cmsCon .alignright{max-width: 100%;float: none;margin: auto;margin-bottom: 2rem;}
+.cmsCon .aligncenter{margin-bottom: 2rem;}
+
+/*---cmsCon---*/
+
+/*---error---*/
+
+.commonboximg{max-width: 100%;}
+.commonboxcon .commontitle{font-size: 18px;}
+.commonboxcon p{font-size: 14px;}
+
+/*---error---*/
+
+/*---thank-u---*/
+
+.thankuSec .commonboximg{max-width: 12rem;}
+
+/*---thank-u---*/
+
+/*---product-listing---*/
+
+.mobFilter{display: block;}
+.mob_filter{display: block;text-align: center;padding: 8px 10px;font-size: 14px;font-weight: 400;color: #000;line-height: 1.4;}
+.mob_filter .icon{vertical-align: middle;display: inline-block;margin-right: 5px;}
+
+.sidebarDiv{position: fixed; left: -100vw; top: 0; bottom: 0; background: #fff; width: 100vw; z-index: 999999; transition: all 0.4s ease-in-out; padding-top: 60px; overflow: auto;} 
+
+.sidebarDiv.openFilter{left: 0;}
+
+.sidebarDiv .sidebarTitle{width: 100vw; background:#95b785;font-size: 16px; padding: 12px 15px; position: relative; color: #fff; line-height: 1.6; height: auto; position: absolute; top: 0; z-index: 9999; left: -100vw; transition: all 0.4s ease-in-out;}
+
+.sidebarDiv.openFilter .sidebarTitle{position: fixed; top: 0; left: 0;z-index: 999;}
+
+.sidebarDiv .sidebarTitle:before{content: "";width: 16px;height: 2px;background: #fff;position: absolute;right: 15px;transform: rotate(45deg);margin: auto;top: 0;bottom: 0;}
+
+.sidebarDiv .sidebarTitle:after{content: "";width: 16px;height: 2px;background: #fff;position: absolute;right: 15px;transform: rotate(-45deg);margin: auto;top: 0;bottom: 0;}
+
+.prodsidebarbox{padding: 0 15px;}
+.produsidehead .produsidetitle{font-size: 16px;}
+.checkboxmain .custom_checkbox{margin-bottom: 10px;}
+.custom_checkbox label span{font-size: 14px;padding-left: 26px;}
+.custom_checkbox label span:before{width: 16px;height: 16px;}
+.custom_checkbox label input[type="checkbox"]:checked+ span:after{width: 9px;height: 5px;top: -1px;}
+
+.prodlistSec .shoprodboxmain{width: 50%;}
+.prodlistSec{padding: 30px 0;padding-bottom: 15px;}
+
+/*---product-listing---*/
+
+/*---product-detail---*/
+
+.galleryThumb{display: none;}
+.productGallery .slick-dots li button {border-radius: 0;width: 2.5rem;height: 0.4rem;margin: .3125rem .4375rem;border-radius: 0;background-color: #ccc;
+padding: 0;}
+.productGallery .slick-dots li.slick-active button{opacity: 1;background-color: #3d3d3d;}
+.galleryMain .slick-dots li.slick-active button{background: #000;}
+.galleryMain .slick-dots li.slick-active button:before{display: none;}
+.productGallery{margin-right: 0;margin-bottom: 2rem;}
+.prodethead .prodetitle{font-size: 18px;}
+.prodethead .productprice{font-size: 20px;}
+.sku{font-size: 16px;}
+.qtyaddcartmain span{font-size: 14px;}
+.quantityBox{width: 16rem;min-height: 7rem;}
+.quantityBox .qtyminus{width: 4rem;}
+.quantityBox .qtyplus{width: 4rem;}
+.quantityBox #quantityField{font-size: 16px;min-height: 7rem;}
+.quantityBox .qtyminus:before{width: 8px;}
+.quantityBox .qtyplus:before{width: 8px;}
+.quantityBox .qtyplus:after{height: 8px;}
+.addcartbtn{width: calc(100% - 17rem);}
+.addcartbtn .btn{min-width: 100%;padding: 2.5rem 2rem;}
+.prodetaititle{font-size: 16px;}
+.sharemain .socialMeadia{display: inline-block;}
+.prodetailSec{padding: 40px 0;}
+.productNav .nav-link{font-size: 14px;}
+.productNav .nav{margin: 0 -1rem;}
+.productNav .nav-item{padding: 0 1rem;}
+.prodetainfoSec .cmsCon .aligncenter{max-width: 80%;}
+
+/*---product-detail---*/
+
+}
+
+
+
+@media only screen and (max-width: 568px) {
+
+}
+
+
+
+/* common css for below screen 479 */
+
+@media only screen and (max-width: 479px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 380px) {
+
+}
+
+
+
+@media only screen and (max-width: 350px) {
+
+
+
+}
+
+
+/* common css for screen size between 480 to 767 */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+
+/* common css for screen size between 568 to 767 */
+
+@media only screen and (min-width: 568px) and (max-width: 767px) {
+
+
+/*---bannersec---*/
+
+
+
+/*---bannersec---*/
+
+/*---CBD Product---*/
+
+.cbdprorow{margin: 0;}
+.cbdproductSec .cbdprocol{width: 33.33%;}
+
+/*---CBD Product---*/
+
+/*---Which CBD Best---*/
+.cbdoilRightbox{margin-top: 30px;}
+/*---Which CBD Best---*/
+
+/*---The Best Products---*/
+.bestprocon{text-align: left;}
+.bestproforimg img{margin: inherit;}
+
+/*---The Best Products---*/
+
+/*---footer sec---*/
+
+.copyrightsec .powerdBy{float: right;}
+
+/*---footer sec---*/
+
+
+/*---aboutus----*/
+
+.whychocolRight {max-width: 42.5%;width: 42.5%;}
+.whychoimg{margin-bottom: 0;}
+.whychooseSec{padding-bottom: 8rem;}
+
+/*---aboutus----*/
+
+/*---error---*/
+
+.commonboximg{max-width: 60%;}
+
+/*---error---*/
+
+/*---product-listing---*/
+
+.prodlistSec .shoprodboxmain{width: 33.33%;}
+
+/*---product-listing---*/
+
+
+
+}
+
+
+/* common css for screen size between 600 to 767 */
+
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+
+/*---contactus---*/
+
+.contactdetailSec:before{display: block;}
+.contactforbox{padding: 4rem;box-shadow: 0px 13px 28px 0px rgb(44 44 44 / 18%);}
+
+/*---contactus---*/
+
+/*---blog-listing---*/
+
+.bloglistboxmain{margin-right: 20px;}
+.bloglistbox:last-child{margin-bottom: 0rem;}
+
+/*---blog-listing---*/
+/*---product-detail---*/
+
+.productGallery{margin-right: 2.7rem;margin-bottom: 0;}
+
+/*---product-detail---*/
+	
+}
+
+
+
+/* common css for screen size between 768 to 1199 */
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+
+
+}
+
+
+/* common css for screen size between 768 to 1023 */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+/* common css for screen size between 1024 to 1199 */
+
+@media only screen and (min-width: 1200px) and (max-width: 1366px) {
+
+}	
